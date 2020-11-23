@@ -1,1 +1,1 @@
-Track weather changes accross the world
+Track weather changes across the world
